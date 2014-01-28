@@ -4,7 +4,7 @@
 # http://csc.cs.utm.my/syed/images/files/jjdecode/jjdecode.html
 # 
 # +NCR/CRC! [ReVeRsEr] - crackinglandia@gmail.com
-# Thanks to Jose Miguel Esparza for the final push to make it work!
+# Thanks to Jose Miguel Esparza (@EternalTodo) for the final push to make it work!
 #
 
 import re
